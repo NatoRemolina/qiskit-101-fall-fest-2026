@@ -27,6 +27,7 @@ Material de la sesión *Qiskit 101* del **Qiskit Fall Fest 2026**: del bit al es
 Hago parte del **Semillero QUANT Research Group** y del **Semillero de Modelos Generativos SIMG** de la Universidad Nacional de Colombia. Me entusiasma aprender tecnologías de impacto, y en especial estoy aprendiendo sobre divulgación científica; esta sesión es parte de ese camino.
 
 [![GitHub](https://img.shields.io/badge/GitHub-NatoRemolina-181717?logo=github)](https://github.com/NatoRemolina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalia%20Remolina-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-patricia-remolina-rodriguez-1327a8220/)
 
 ## Contenido
 
