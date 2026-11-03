@@ -16,6 +16,14 @@ En la sesión vamos del bit al circuito: qubits, superposición, medición, la e
 | [`your-first-quantum-experiment_es.ipynb`](notebooks/your-first-quantum-experiment_es.ipynb) | Un primer experimento: la energía de un sistema de dos espines | Para casa | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/your-first-quantum-experiment_es.ipynb) |
 | [`QGSS2026_Lab0_es.ipynb`](notebooks/QGSS2026_Lab0_es.ipynb) | Ejercicios de calentamiento de la escuela de verano de Qiskit | Para practicar | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/QGSS2026_Lab0_es.ipynb) |
 
+### Material de estudio
+
+| Notebook | Qué hay | Colab |
+|---|---|---|
+| [`compuertas_explicadas.ipynb`](estudio/compuertas_explicadas.ipynb) | Las compuertas X, Y, Z, H, S, T y CNOT paso a paso, con su matriz, la esfera de Bloch y experimentos para adivinar, hasta llegar al estado de Bell. Es el complemento de la parte teórica de la presentación | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/estudio/compuertas_explicadas.ipynb) |
+
+Si es tu primera vez, te recomiendo este orden: `compuertas_explicadas` → `practica_en_vivo` → `hello-world_es`.
+
 ## Cómo seguir la sesión
 
 ### Opción 1: en tu computador
@@ -31,7 +39,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-En JupyterLab abre `notebooks/practica_en_vivo.ipynb`.
+En JupyterLab abre `notebooks/practica_en_vivo.ipynb` para la sesión, o `estudio/compuertas_explicadas.ipynb` para repasar las compuertas.
 
 ### Opción 2: sin instalar nada
 
