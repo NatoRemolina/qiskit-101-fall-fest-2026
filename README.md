@@ -35,7 +35,7 @@ Hago parte del **Semillero QUANT Research Group** y del **Semillero de Modelos G
 
 | Notebook | Qué hay | Cuándo usarlo | Colab |
 |---|---|---|---|
-| [`practica_en_vivo.ipynb`](notebooks/practica_en_vivo.ipynb) | El estado de Bell paso a paso: Composer, código, simulador, hardware real y un reto | **Durante la sesión** (19:43 – 19:56) | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/practica_en_vivo.ipynb) |
+| [`practica_en_vivo.ipynb`](notebooks/practica_en_vivo.ipynb) | El estado de Bell paso a paso: Composer, código, simulador, hardware real y un reto | **Durante la sesión** (19:44 – 19:57) | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/practica_en_vivo.ipynb) |
 | [`hello-world_es.ipynb`](notebooks/hello-world_es.ipynb) | Bell con Sampler y Estimator, y un estado de 100 qubits | Después de la sesión | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/hello-world_es.ipynb) |
 | [`get-started-with-qiskit_es.ipynb`](notebooks/get-started-with-qiskit_es.ipynb) | Los conceptos básicos de Qiskit desde cero | Después de la sesión | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/get-started-with-qiskit_es.ipynb) |
 | [`your-first-quantum-experiment_es.ipynb`](notebooks/your-first-quantum-experiment_es.ipynb) | Un primer experimento: la energía de un sistema de dos espines | Después de la sesión | [Abrir](https://colab.research.google.com/github/NatoRemolina/qiskit-101-fall-fest-2026/blob/main/notebooks/your-first-quantum-experiment_es.ipynb) |
